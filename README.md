@@ -7,7 +7,7 @@ https://visualstudio.microsoft.com/vs/
 2. XAMPP Control Panel \
 https://www.apachefriends.org/download.html 
 3. MySQL Connector for Visual Studio \
-https://dev.mysql.com/downloads/windows/visualstudio/ \
+https://dev.mysql.com/downloads/windows/visualstudio/ 
 
 # Youtube Channel 
 https://www.youtube.com/channel/UColNzWPDlb-4_vnYda7bIIw \
