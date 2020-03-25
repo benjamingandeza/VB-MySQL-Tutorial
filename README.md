@@ -10,7 +10,7 @@ https://www.apachefriends.org/download.html
 https://dev.mysql.com/downloads/windows/visualstudio/ \
 
 # Youtube Channel 
-https://www.youtube.com/channel/UColNzWPDlb-4_vnYda7bIIw 
+https://www.youtube.com/channel/UColNzWPDlb-4_vnYda7bIIw \
 Please like and share our tutorial videos and dont forget to subscribe! \
 Thank you! God Bless! 
 
