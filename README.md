@@ -12,6 +12,7 @@ https://dev.mysql.com/downloads/windows/visualstudio/
 # Youtube Video Tutorial
 Part 1: https://youtu.be/dJRFTB4uo-M \
 Part 2: https://youtu.be/oL-S-vjS3vk \
+Part 3: https://youtu.be/OCdvAp1XhVI \
 
 # Youtube Channel 
 https://www.youtube.com/channel/UColNzWPDlb-4_vnYda7bIIw \
